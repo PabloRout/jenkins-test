@@ -1,1 +1,1 @@
-printf("python 🐍 v4 ❤️‍🔥 🐍🐍🐍");
+print("python 🐍 v4 ❤️‍🔥 🐍🐍🐍")
