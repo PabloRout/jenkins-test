@@ -1,1 +1,1 @@
-print("Hello from python 𜱲𜱲𜱲𜱲 v3 ❤️‍🔥")
+print("python 🐍 v4 ❤️‍🔥 🐍🐍🐍")
